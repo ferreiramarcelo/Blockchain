@@ -15,7 +15,7 @@ Antes de executar os exemplos, você precisará ajustar alguns dos arquivos font
 Before running the examples, you will need to adjust some of the source files to include your personal information, such as:
 
 - **Endereços dos seus Smart Contracts**: Substitua os placeholders pelos endereços dos contratos inteligentes que você implementou na rede Ethereum.
-- **Smart Contract Addresses**: Replace the placeholders with the addresses of the smart contracts you have deployed on the Ethereum network.
+- Smart Contract Addresses**: Replace the placeholders with the addresses of the smart contracts you have deployed on the Ethereum network.
 
 - **Contas na rede de testes da Ethereum**: Insira as credenciais das suas contas na rede de testes, para que você possa interagir com a blockchain.
 - **Ethereum Testnet Accounts**: Enter the credentials of your accounts on the testnet so that you can interact with the blockchain.
