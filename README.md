@@ -32,24 +32,29 @@ Before running the examples, you will need to adjust some of the source files to
 ### Security
 
 Lembre-se de nunca compartilhar chaves privadas ou segredos de API publicamente. Sempre use variáveis de ambiente ou arquivos de configuração ignorados pelo `.gitignore` para manter suas credenciais seguras.
+
 Remember never to share private keys or API secrets publicly. Always use environment variables or configuration files ignored by `.gitignore` to keep your credentials secure.
 
 ## Erratas e Correções
 ## Errata and Corrections
 
 Este repositório é destinado exclusivamente a facilitar o uso dos códigos pelos leitores do livro. Não é intencionada a criação de versões melhoradas ou atualizações significativas dos códigos aqui presentes. Quaisquer atualizações futuras, que incluam melhorias ou novas funcionalidades, serão disponibilizadas em uma nova edição do livro e direcionadas a um novo repositório.
+
 This repository is exclusively intended to facilitate the use of the codes by the readers of the book. The creation of improved or significant updates to the codes present here is not intended. Any future updates, including improvements or new features, will be made available in a new edition of the book and directed to a new repository.
 
 Qualquer correção necessária decorrente de erratas detectadas será implementada pelo autor, Marcelo Ferreira, e disponibilizada aqui para os leitores.
+
 Any necessary corrections arising from detected errata will be implemented by the author, Marcelo Ferreira, and made available here for the readers.
 
 ## Licença
 ## License
 
 Os códigos fonte são disponibilizados sob a licença MIT e GPL (quando especificado no código-fonte), que permite o uso, distribuição e modificação dentro dos termos especificados.
+
 The source codes are made available under the MIT and GPL license (when specified in the source code), which allows use, distribution, and modification within the specified terms.
 
 ---
 
 Desejamos uma jornada enriquecedora no aprendizado e na exploração do mundo do blockchain. Que os exemplos aqui fornecidos sejam um ponto de partida sólido para suas inovações e descobertas no futuro digital!
+
 We wish you an enriching journey in learning and exploring the world of blockchain. May the examples provided here be a solid starting point for your innovations and discoveries in the digital future!
