@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Visualizando seu NFT ArteDigital</title>
+<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.5.2/dist/web3.min.js"></script>
+</head>
+<body>
+
+<h1>Interagindo e Visualizando seu NFT ArteDigital</h1>
+
+<label for="tokenId">Informe o ID do NFT: </label>
+<input type="number" id="tokenId" name="tokenId" min="1">
+<button onclick="fetchNFTDetails()">Obter Detalhes do NFT</button>
+<div id="nft-details"></div>
+<img id="nft-image" width="300" />
+
+<script>
+    let web3 = new Web3(new Web3.providers.HttpProvider(" /* Informe a URL com a chave de acesso ao Gateway de API de sua conta Infura - provide the URL with the access key to your Infura account's API Gateway.*/ "));
+    
+    let contractAddress = /* Adicione o endereço de seu contrato - Add youryour contract address here.*/ ;
+
+    let contractABI =  /* Adicione o ABI do seu contrato aqui - Add your contract ABI here.*/ ;
+    
+    let contractInstance = new web3.eth.Contract(contractABI, contractAddress);
+    
+    async function fetchNFTDetails() {
+        try {
+            let tokenId = document.getElementById('tokenId').value;
+            if(!tokenId) {
+                alert('Por favor, insira um ID de NFT válido.');
+                return;
+            }
+            let details = await contractInstance.methods.tokenURI(tokenId).call();
+			
+			/* Informe abaixo a URL da sua pasta no IPFS Pinata com os arquivos JSON - Provide bellow the URL of your folder on IPFS Pinata with JSON files. */
+            let response = await fetch(`https://rose-magic-tern-708.mypinata.cloud/ipfs/QmUKtzxpT1WEhUEdaXLuMvD9t9nEp6bD84z1TL75Bz48Tm/${tokenId}.json`);
+
+            let data = await response.json();
+            
+            document.getElementById('nft-details').innerText = `Nome: ${data.name}\nDescrição: ${data.description}`;
+			
+			/* Informe abaixo a URL da sua pasta no IPFS Pinata com as imagens - Provide bellow the URL of your folder on IPFS Pinata with the images. */
+            document.getElementById('nft-image').src = `https://rose-magic-tern-708.mypinata.cloud/ipfs/QmcbQmsDeGuxso8yHrzHR2wAby1cffQMAdGJwqPSWkm3Lt/${tokenId}.jpg`;
+        } catch (error) {
+            console.error(error);
+            alert("Houve um erro ao buscar os detalhes do NFT.");
+        }
+    }
+</script>
+
+</body>
+</html>	

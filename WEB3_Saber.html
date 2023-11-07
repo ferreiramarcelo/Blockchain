@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Interagindo com o Token Moeda do Saber</title>
+<script src="https://cdn.jsdelivr.net/npm/web3@1.3.0/dist/web3.min.js"></script>
+</head>
+<body>
+
+<h1>Interagindo com o Token "Moeda do Saber" via Web3 e Infura</h1>
+
+<button onclick="fetchTokenDetails()">Obter Detalhes do Token</button>
+
+<script>
+    let web3 = new Web3(new Web3.providers.HttpProvider(/* Informe a URL com a chave de acesso ao Gateway de API de sua conta Infura - provide the URL with the access key to your Infura account's API Gateway.*/));
+
+    let contractAddress = /* Adicione o endereço de seu contrato -  Add youryour contract address here.*/
+
+    let contractABI = /* Adicione o ABI do seu contrato aqui - Add your contract ABI here.*/;
+
+    let contractInstance = new web3.eth.Contract(contractABI, contractAddress);
+
+    async function fetchTokenDetails() {
+        try {
+            let name = await contractInstance.methods.name().call();
+            let symbol = await contractInstance.methods.symbol().call();
+            let totalSupply = await contractInstance.methods.totalSupply().call();
+            alert(`Nome do Token: ${name}\nSímbolo: ${symbol}\nSuprimento Total: ${web3.utils.fromWei(totalSupply, 'ether')} SABER`);
+        } catch (error) {
+            console.error(error);
+            alert("Houve um erro ao buscar os detalhes do token.");
+        }
+    }
+</script>
+
+</body>
+</html>

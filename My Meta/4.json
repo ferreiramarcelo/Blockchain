@@ -1,0 +1,23 @@
+{
+  "name": "My Collection #4",
+  "description": "Super Hero",
+  "image": "https://rose-magic-tern-708.mypinata.cloud/ipfs/QmcbQmsDeGuxso8yHrzHR2wAby1cffQMAdGJwqPSWkm3Lt/4.jpg",
+  "edition": 1,
+  "attributes": [
+    [
+      {
+        "trait_type": "average color",
+        "value": "rgb(138,87,146)"
+      },
+      {
+        "trait_type": "What is this?",
+        "value": "Bitcoin"
+      },
+      {
+        "trait_type": "date",
+        "value": 1759
+      }
+    ]
+  ],
+  "compiler": "Original Photo"
+}

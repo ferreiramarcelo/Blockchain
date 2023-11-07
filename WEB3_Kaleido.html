@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Web3.js e Kaleido</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios@0.21.1/dist/axios.min.js"></script>
+</head>
+
+<body>
+    <h1>Interagindo com um Contrato Inteligente usando Web3 e Kaleido</h1>
+    <input id="valueInput" type="number" placeholder="Enter value">
+    <button onclick="setValue()">Set Value</button>
+    <button onclick="getValue()">Get Value</button>
+    <h2 id="valueOutput"></h2>
+    <script>
+	
+		/* Altere com as informações de sua conta no Kaleido - Change with informations of your account in Kaleido */
+        async function setValue() {
+            const value = document.getElementById('valueInput').value;
+   			const url = `https://u0bpn6bhay-u0zldmm6dj-connect.us0-aws.kaleido.io/gateways/u0sepayx8n/0x869064f9d01deaf57126fba62aeaaa231588c2e3/setValue?newValue=${value}&kld-from=0xfca87376bac0ee8462ead81a87c03ec3e0c2fdd0`;
+
+			
+			const headers = {
+                'Authorization': 'Basic dTBxcGJiYXVkYjoxSjg0WlNSaUJBS192UHMxT3ZKZF9EcF9ROFJkN0RBczgxci1KU291dUFF',
+                'Content-Type': 'application/json'
+            };
+
+            try {
+                const response = await axios.post(url, {}, {
+                    headers
+                });
+                console.log(response);
+            } catch (error) {
+                console.error(`Erro ao definir o valor: ${error}`);
+            }
+        }
+
+		/* Altere com as informações de sua conta no Kaleido - Change with informations of your account in Kaleido */
+        async function getValue() {
+            const url = 'https://u0bpn6bhay-u0zldmm6dj-connect.us0-aws.kaleido.io/gateways/u0sepayx8n/0x869064f9d01deaf57126fba62aeaaa231588c2e3/getValue?kld-from=0xfca87376bac0ee8462ead81a87c03ec3e0c2fdd0' ;
+
+			const headers = {
+                'Authorization': 'Basic dTBxcGJiYXVkYjoxSjg0WlNSaUJBS192UHMxT3ZKZF9EcF9ROFJkN0RBczgxci1KU291dUFF',
+                'Content-Type': 'application/json'
+            };
+
+            try {
+                const response = await axios.get(url, {
+                    headers
+                });
+                document.getElementById('valueOutput').textContent = `O valor atual é: ${response.data.output}`;
+                console.log(response);
+            } catch (error) {
+                console.error(`Erro ao obter o valor: ${error}`);
+            }
+        }
+    </script>
+</body>
+
+</html>
