@@ -1,4 +1,5 @@
 # Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital / Blockchain in Practice: Your Step-by-Step Guide to Mastering the Digital Future
+
 Este repositório contém os códigos fonte apresentados no livro "Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital". 
 This repository contains the source code featured in the book "Blockchain in Practice: Your Step-by-Step Guide to Mastering the Digital Future."
 
