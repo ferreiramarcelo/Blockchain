@@ -2,18 +2,21 @@
 # Blockchain in Practice: Book's Source Code
 
 Este repositório contém os códigos fonte apresentados no livro "Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital". 
+
 This repository contains the source code featured in the book "Blockchain in Practice: Your Step-by-Step Guide to Mastering the Digital Future."
 
 ## Instruções de Uso
 ## Usage Instructions
 
 Os códigos são organizados por capítulos e seções, conforme apresentados no livro. Para tirar o máximo proveito desses exemplos, é recomendável seguir as orientações e explicações fornecidas no texto.
+
 The codes are organized by chapters and sections as presented in the book. To make the most out of these examples, it is recommended to follow the guidance and explanations provided in the text.
 
 ### Configurações Necessárias
 ### Required Configurations
 
 Antes de executar os exemplos, você precisará ajustar alguns dos arquivos fonte para incluir suas informações pessoais, como:
+
 Before running the examples, you will need to adjust some of the source files to include your personal information, such as:
 
 - **Endereços dos seus Smart Contracts**: Substitua os placeholders pelos endereços dos contratos inteligentes que você implementou na rede Ethereum.
