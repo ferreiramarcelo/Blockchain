@@ -1,7 +1,7 @@
 # Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital / Blockchain in Practice: Your Step-by-Step Guide to Mastering the Digital Future
 
-<a href="https://www.amazon.com.br/dp/B0CLL1LHKX" title="Adquira o seu exemplar agora!">
-  <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" width="50%" alt="Capa do Livro">
+<a href="https://www.amazon.com.br/dp/B0CLL1LHKX" title="Adquira o seu exemplar agora! - BUY NOW!">
+  <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" width="25%" alt="Capa do Livro">
 </a>
 
 Este repositório contém os códigos fonte apresentados no livro "Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital". 
