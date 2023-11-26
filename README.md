@@ -1,28 +1,31 @@
 # Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital / Blockchain in Practice: Your Step-by-Step Guide to Mastering the Digital Future
 
-<table align="center" style="border-collapse: collapse; border: 0; margin-left: auto; margin-right: auto;">
-  <tr>
-    <td style="border: 0; text-align: center;">
-      <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!">
-        <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" width="50%" alt="Blockchain na Prática">
-      </a>
-      <br>
-      <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!" style="text-decoration: none;">
-        <button style="margin-top: 10px;">COMPRE AGORA!</button>
-      </a>
-    </td>
-    <td style="border: 0; text-align: center;">
-      <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!">
-        <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/QmdJa7nizKThkmFt9hf9tF99Ag2MW6bVtNuJDhREsaxPNT" width="50%" alt="Blockchain in Practice">
-      </a>
-      <br>
-      <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!" style="text-decoration: none;">
-        <button style="margin-top: 10px;">BUY NOW!</button>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div style="text-align: center;">
+  <table style="margin-left: auto; margin-right: auto; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 10px;">
+        <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!">
+          <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" width="300px" alt="Blockchain na Prática" style="box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+        </a>
+        <div>
+          <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!" style="text-decoration: none;">
+            <button style="background-color: #004a7c; color: white; padding: 10px 20px; margin-top: 10px; border: none; cursor: pointer; border-radius: 5px;">COMPRE AGORA!</button>
+          </a>
+        </div>
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!">
+          <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/QmdJa7nizKThkmFt9hf9tF99Ag2MW6bVtNuJDhREsaxPNT" width="300px" alt="Blockchain in Practice" style="box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+        </a>
+        <div>
+          <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!" style="text-decoration: none;">
+            <button style="background-color: #004a7c; color: white; padding: 10px 20px; margin-top: 10px; border: none; cursor: pointer; border-radius: 5px;">BUY NOW!</button>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 Este repositório contém os códigos fonte apresentados no livro "Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital". 
 
