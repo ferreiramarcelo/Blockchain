@@ -2,18 +2,27 @@
 
 <table align="center" style="border-collapse: collapse; border: 0; margin-left: auto; margin-right: auto;">
   <tr>
-    <td style="border: 0;">
+    <td style="border: 0; text-align: center;">
       <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!">
         <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" width="50%" alt="Blockchain na Prática">
       </a>
+      <br>
+      <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!" style="text-decoration: none;">
+        <button style="margin-top: 10px;">COMPRE AGORA!</button>
+      </a>
     </td>
-    <td style="border: 0;">
+    <td style="border: 0; text-align: center;">
       <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!">
         <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/QmdJa7nizKThkmFt9hf9tF99Ag2MW6bVtNuJDhREsaxPNT" width="50%" alt="Blockchain in Practice">
+      </a>
+      <br>
+      <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!" style="text-decoration: none;">
+        <button style="margin-top: 10px;">BUY NOW!</button>
       </a>
     </td>
   </tr>
 </table>
+
 
 Este repositório contém os códigos fonte apresentados no livro "Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital". 
 
