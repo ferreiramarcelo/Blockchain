@@ -3,23 +3,23 @@
 <div style="text-align: center;">
   <table style="margin-left: auto; margin-right: auto; border-collapse: collapse;">
     <tr>
-      <td style="padding: 10px;">
+      <td style="border: 0; text-align: center;">
         <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!">
-          <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" width="300px" alt="Blockchain na Prática" style="box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+          <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" alt="Blockchain na Prática" style="max-width: 100%; height: auto; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
         </a>
-        <div>
+        <div style="margin-top: 10px;">
           <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!" style="text-decoration: none;">
-            <button style="background-color: #004a7c; color: white; padding: 10px 20px; margin-top: 10px; border: none; cursor: pointer; border-radius: 5px;">COMPRE AGORA!</button>
+            <button style="background-color: #004a7c; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 5px;">COMPRE AGORA!</button>
           </a>
         </div>
       </td>
-      <td style="padding: 10px;">
+      <td style="border: 0; text-align: center;">
         <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!">
-          <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/QmdJa7nizKThkmFt9hf9tF99Ag2MW6bVtNuJDhREsaxPNT" width="300px" alt="Blockchain in Practice" style="box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+          <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/QmdJa7nizKThkmFt9hf9tF99Ag2MW6bVtNuJDhREsaxPNT" alt="Blockchain in Practice" style="max-width: 100%; height: auto; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
         </a>
-        <div>
+        <div style="margin-top: 10px;">
           <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!" style="text-decoration: none;">
-            <button style="background-color: #004a7c; color: white; padding: 10px 20px; margin-top: 10px; border: none; cursor: pointer; border-radius: 5px;">BUY NOW!</button>
+            <button style="background-color: #004a7c; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 5px;">BUY NOW!</button>
           </a>
         </div>
       </td>
