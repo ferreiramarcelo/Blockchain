@@ -8,8 +8,8 @@
       </a>
     </td>
     <!-- Espaçamento entre imagens -->
-    <td width="10"></td>
-    <td>
+    <td width="10" style="border: none;"></td>
+    <td style="border: none;">
       <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!">
         <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/QmdJa7nizKThkmFt9hf9tF99Ag2MW6bVtNuJDhREsaxPNT" width="50%" alt="Blockchain in Pratice">
       </a>
