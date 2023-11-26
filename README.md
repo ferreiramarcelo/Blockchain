@@ -6,6 +6,7 @@
       <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!">
         <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" width="50%" alt="Blockchain na Prática">
       </a>
+    </td>
    
     <td style="border: 0;">
       <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!">
@@ -14,7 +15,6 @@
     </td>
   </tr>
 </table>
-
 
 
 Este repositório contém os códigos fonte apresentados no livro "Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital". 
