@@ -1,15 +1,15 @@
 # Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital / Blockchain in Practice: Your Step-by-Step Guide to Mastering the Digital Future
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
+<table style="border-collapse: collapse; border: 0;">
+  <tr style="border: 0;">
+    <td style="border: 0;">
       <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!">
         <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" width="50%" alt="Blockchain na Prática">
       </a>
     </td>
     <!-- Espaçamento entre imagens -->
-    <td width="10" style="border: none;"></td>
-    <td style="border: none;">
+    <td width="10" style="border: 0;"></td>
+    <td style="border: 0;">
       <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!">
         <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/QmdJa7nizKThkmFt9hf9tF99Ag2MW6bVtNuJDhREsaxPNT" width="50%" alt="Blockchain in Pratice">
       </a>
