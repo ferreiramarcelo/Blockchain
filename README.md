@@ -1,21 +1,23 @@
 # Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital / Blockchain in Practice: Your Step-by-Step Guide to Mastering the Digital Future
 
-<table style="border-collapse: collapse; border: 0;">
-  <tr style="border: 0;">
+<table align="center" style="border-collapse: collapse; border: 0; margin-left: auto; margin-right: auto;">
+  <tr>
     <td style="border: 0;">
       <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!">
         <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" width="50%" alt="Blockchain na Prática">
       </a>
     </td>
-    <!-- Espaçamento entre imagens -->
-    <td width="10" style="border: 0;"></td>
+    <td style="border: 0; width: 10px;"> <!-- Ajuste a largura para aumentar ou diminuir o espaço -->
+      <!-- Célula vazia para espaçamento -->
+    </td>
     <td style="border: 0;">
       <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!">
-        <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/QmdJa7nizKThkmFt9hf9tF99Ag2MW6bVtNuJDhREsaxPNT" width="50%" alt="Blockchain in Pratice">
+        <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/QmdJa7nizKThkmFt9hf9tF99Ag2MW6bVtNuJDhREsaxPNT" width="50%" alt="Blockchain in Practice">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 Este repositório contém os códigos fonte apresentados no livro "Blockchain na Prática: Seu Guia Passo a Passo para Dominar o Futuro Digital". 
