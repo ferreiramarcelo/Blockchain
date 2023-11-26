@@ -6,10 +6,7 @@
       <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!">
         <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" width="50%" alt="Blockchain na Prática">
       </a>
-    </td>
-    <td style="border: 0; width: 10px;"> <!-- Ajuste a largura para aumentar ou diminuir o espaço -->
-      <!-- Célula vazia para espaçamento -->
-    </td>
+   
     <td style="border: 0;">
       <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!">
         <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/QmdJa7nizKThkmFt9hf9tF99Ag2MW6bVtNuJDhREsaxPNT" width="50%" alt="Blockchain in Practice">
