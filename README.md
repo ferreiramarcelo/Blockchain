@@ -5,7 +5,7 @@
     <tr>
       <td style="padding: 10px;">
         <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!">
-          <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/Qme9NdUiTLjBpHj4dDsif7sJFnqUJrnixUMHerWGxpfb28" width="300px" alt="Blockchain na Prática" style="box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+<img src="https://bafybeifuzejtjlt2zxpdtvjazpg3yiq34wrnttqm6hpazaqjms2njbe4fa.ipfs.nftstorage.link" width="300px" alt="Blockchain na Prática" style="box-shadow: 3px 3px 10px rgba(0,0,0,0.2);"> 
         </a>
         <div>
           <a href="https://a.co/d/hRMqWpT" title="Adquira o seu exemplar agora! - COMPRE AGORA!" style="text-decoration: none;">
