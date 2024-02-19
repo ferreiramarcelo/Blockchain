@@ -15,7 +15,7 @@
       </td>
       <td style="padding: 10px;">
         <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!">
-          <img src="https://rose-magic-tern-708.mypinata.cloud/ipfs/QmdJa7nizKThkmFt9hf9tF99Ag2MW6bVtNuJDhREsaxPNT" width="300px" alt="Blockchain in Practice" style="box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
+ <img src="https://bafybeihatpawpaz5hm75vteqwtd5w7xf2vjeseghwilmch3lncvdk6auzu.ipfs.nftstorage.link" width="300px" alt="Blockchain in Practice" style="box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
         </a>
         <div>
           <a href="https://a.co/d/7llSymg" title="Get your copy now! - BUY NOW!" style="text-decoration: none;">
